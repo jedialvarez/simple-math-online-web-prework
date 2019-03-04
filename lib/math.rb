@@ -14,7 +14,7 @@ def multiplication(num1 = 4, num2 = 30)
   num1 * num2
 end
 
-def modulo(num1 = 34.0, num2 = 5.0)
+def modulo(num1 = 34, num2 = 5)
   num1 / num2
 
 end
